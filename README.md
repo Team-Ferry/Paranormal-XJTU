@@ -1,5 +1,5 @@
 # Introduction to 2D Game Development
-![]([./pic/pic1_50.png](https://github.com/kiyotakali/Paranormal-XJTU/blob/main/ad1.png) =100x100)
+![](https://github.com/kiyotakali/Paranormal-XJTU/blob/main/ad1.png) =100x100)
 ![image](https://github.com/kiyotakali/Paranormal-XJTU/blob/main/ad1.png)([./pic/pic1_50.png](https://github.com/kiyotakali/Paranormal-XJTU/blob/main/ad1.png) =100x100)
 ## COMP561405
 #### Brief Intro
