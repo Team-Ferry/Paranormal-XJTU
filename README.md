@@ -8,7 +8,8 @@
 - You can learn about the details of this course on https://myuwbclasses.github.io/XJTU-IntroGameDev/.
 
 #### Our Team
-💞 Team Ferry, consisting of 6 undergraduates in Xjtu finished the whole project. 
-💪 Take a trip around the campus of Xi'an Jiaotong University while trying to solve a series of ghostly mysteries!
+- 💞 Team Ferry, consisting of 6 undergraduates in Xjtu finished the whole project. 
+- 💪 Take a trip around the campus of Xi'an Jiaotong University while trying to solve a series of ghostly mysteries!
+
 ####### Main Contributors 
 
