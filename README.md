@@ -12,7 +12,10 @@
 
 ![image](https://github.com/kiyotakali/Paranormal-XJTU/blob/main/%E9%94%AE%E4%BD%8D%E6%8C%87%E5%BC%95.png)
 
-#### Our Team
+### Our Team
 - 💞 Team Ferry, consisting of 6 undergraduates in Xjtu finished the whole project. 
 - 💪 Take an exciting trip around the campus of Xi'an Jiaotong University while trying to solve a series of ghostly mysteries!
+
+### Valuable Photos during the course
+
 
