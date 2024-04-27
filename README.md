@@ -17,5 +17,5 @@
 - 💪 Take an exciting trip around the campus of Xi'an Jiaotong University while trying to solve a series of ghostly mysteries!
 
 ### Valuable Photos during the course
-
+- 👨‍🏫 A photo of Professor.Sung and our team members.  
 ![image](https://github.com/kiyotakali/Paranormal-XJTU/blob/main/photo.png)
