@@ -1,5 +1,5 @@
 # Introduction to 2D Game Development
-![image](https://github.com/kiyotakali/Paranormal-XJTU/blob/main/ad1.png){{:height="10%" width="10%"}}
+![image](https://github.com/kiyotakali/Paranormal-XJTU/blob/main/ad1.png){:height="10%" width="10%"}
 ## COMP561405
 #### Brief Intro
 - This course is taught by Prof [Kelvin Sung](https://faculty.washington.edu/ksung/), mainly based on game engine [Unity](https://unity.com/cn).
