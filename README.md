@@ -1,1 +1,1 @@
-![Static Badge](https://img.shields.io/badge/-i-red)
+# Introduction to 2D Game Development
