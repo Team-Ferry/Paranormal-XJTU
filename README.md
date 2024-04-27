@@ -18,4 +18,4 @@
 
 ### Valuable Photos during the course
 
-
+![image](https://github.com/kiyotakali/Paranormal-XJTU/blob/main/photo.png)
