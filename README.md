@@ -8,6 +8,8 @@
 - You can learn about the details of this course on https://myuwbclasses.github.io/XJTU-IntroGameDev/.
 
 ### How to play
+- Please go to the 'release' section of the repository, where we put the executable game files.
+- After downloading the project, go to the folder and click "my project" to start the game!
 - Here is a short guide about how to play our game.
 
 ![image](https://github.com/kiyotakali/Paranormal-XJTU/blob/main/%E9%94%AE%E4%BD%8D%E6%8C%87%E5%BC%95.png)
